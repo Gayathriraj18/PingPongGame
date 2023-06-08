@@ -34,7 +34,7 @@ In PaddleRight (Negative button - down and positive buttom - up) and paddleLeft(
  ## Program:
  
  Game Manager:
- ```
+ ```c#
  using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -66,7 +66,7 @@ public class GameManager : MonoBehaviour
 }
 ```
  Paddle: 
- ```
+ ```c#
  using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -120,7 +120,7 @@ public class Paddle : MonoBehaviour
 }
 ```
 Ball:
-```
+```c#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -182,6 +182,9 @@ public class Ball : MonoBehaviour
 }
 ```
  ## Output:
+ 
+ ![vr3](https://github.com/Gayathriraj18/PingPongGame/assets/94154854/f53d9cca-dcde-4085-b6e2-880a4dfb43d0)
+
  
  ## Result:
 
